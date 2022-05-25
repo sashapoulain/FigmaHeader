@@ -1,0 +1,30 @@
+.enterprise-link,
+.comunitydropdown,
+.componyd,
+.englishd {
+    padding: 10px;
+    font-size: 0.90rem;
+    margin-bottom: -20px;
+    display: none;
+}
+
+.dropdown3-list,
+.comdropdownlist,
+.comdlist,
+.englishdlist {
+    padding: 5px 0px;
+}
+
+.dropdown3-list li,
+.comdropdownlist li,
+.comdlist li,
+.englishdlist li {
+    padding: 7px 0px;
+}
+
+.dropdown3-list li a:hover,
+.comdropdownlist li a:hover,
+.comdlist li a:hover,
+.englishdlist li a:hover {
+    border-bottom: 2px solid black;
+}

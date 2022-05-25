@@ -1,0 +1,80 @@
+.gen-div {
+    background-color: white;
+    max-width: 570px;
+    height: 220px;
+    border: 3px solid black;
+    position: absolute;
+    margin-left: -15rem;
+    margin-top: 8px;
+    display: none;
+}
+
+.filesandplugins {
+    background-color: white;
+    width: 420px;
+    height: 100%;
+    border-right: 3px solid black;
+}
+
+.filesandplugins .files {
+    background-color: white;
+    width: 45%;
+    height: 100%;
+    padding: 10px 15px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.filesandplugins .plugins {
+    background-color: white;
+    height: 100%;
+    padding: 10px 15px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.files img {
+    width: 185px;
+    margin-top: 10px;
+}
+
+.plugins img {
+    width: 185px;
+    margin-top: 10px;
+}
+
+.plugins h4 {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.files h4 {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.plugins span {
+    font-size: 0.65rem;
+    color: gray;
+}
+
+.files span {
+    font-size: 0.65rem;
+    color: gray;
+}
+
+.com-list {
+    text-align: left;
+    margin: 5px;
+    padding: 15px 10px;
+}
+
+.com-list li {
+    padding: 6px;
+}
+
+.com-list a:hover {
+    border-bottom: 2px solid black;
+}

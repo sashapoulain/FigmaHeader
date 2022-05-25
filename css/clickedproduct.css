@@ -1,0 +1,21 @@
+.click-product-menu {
+    padding: 15px;
+    font-size: 0.90rem;
+    margin-bottom: -30px;
+    display: none;
+}
+
+.productlistfigma,
+.productlistfigjam {
+    padding: 10px 0px;
+}
+
+.productlistfigma li,
+.productlistfigjam li {
+    padding: 7px 0px;
+}
+
+.productlistfigma li a:hover,
+.productlistfigjam li a:hover {
+    border-bottom: 2px solid black;
+}

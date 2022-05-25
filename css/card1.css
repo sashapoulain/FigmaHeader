@@ -1,0 +1,63 @@
+.productsDiv {
+    background-color: white;
+    max-width: 440px;
+    height: 350px;
+    border: 3px solid black;
+    padding: 0px 15px;
+    position: absolute;
+    margin-top: 8px;
+    display: none;
+    margin-left: -11.25rem;
+}
+
+.part1 {
+    border-right: 3px solid black;
+    width: 200px;
+    padding-right: 15px;
+}
+
+.part2 {
+    width: 200px;
+    padding-left: 17px;
+}
+
+.productsDiv .detail {
+    color: gray;
+    font-size: 0.70rem;
+    margin-top: 20px;
+}
+
+.productsDiv h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.productsDiv img {
+    margin-top: 1rem;
+}
+
+.dropdown4 {
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    font-size: 0.95rem;
+    margin-top: 1rem;
+}
+
+.d-item4,
+.d-item5 {
+    padding: 8px 2px;
+}
+
+.d-item4 a:hover,
+.d-item5 a:hover {
+    border-bottom: 2px solid black;
+}
+
+.dropdown5 {
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    font-size: 0.95rem;
+    margin-top: 1rem;
+}
